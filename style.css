@@ -59,7 +59,7 @@
         flex-direction: column;
     }
     .welcome h1{
-        margin-top: 40px;
+        margin-top: 45px;
         font-size: 42px;
         font-family: Young_serif, serif;
         font-weight: 400;
@@ -75,7 +75,7 @@
     }
     .prep{
         background-color: var(--Rose_White);
-        margin-top: 32px;
+        margin-top: 36px;
         padding: 30px;
         border-radius: 10px;
     }
@@ -98,7 +98,9 @@
         font-size: 30px;
         color: var(--Nutmeg);
         font-family: young_serif, serif;
-        margin-top: 38px;
+        margin-top: 45px;
+        font-weight:bolder;
+        letter-spacing: 0.5px;
     }
     .ingrid ul{
         padding-left: 20px;
